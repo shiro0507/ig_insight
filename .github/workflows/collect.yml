@@ -2,7 +2,7 @@ name: Collect Instagram Insights
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 毎日 JST 10:00 (UTC 01:00) に実行
+    - cron: '0 21 * * *'  # 毎日 JST 06:00 (UTC 21:00) に実行
   workflow_dispatch:       # 手動実行も可能
 
 jobs:
