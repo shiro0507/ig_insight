@@ -60,5 +60,21 @@
       "date": "2026-04-16",
       "followers_count": 32
     }
-  ]
+  ],
+  "17984264108995387": {
+    "caption": "⚠️ AVを見すぎていませんか？実は「見るだけ」でEDになる",
+    "created_at": "2026-04-16T07:58:02+0000",
+    "history": [
+      {
+        "date": "2026-04-16",
+        "views": 44539,
+        "reach": 35448,
+        "saved": 24,
+        "total_interactions": 139,
+        "likes": 98,
+        "comments": 7,
+        "shares": 3
+      }
+    ]
+  }
 }
