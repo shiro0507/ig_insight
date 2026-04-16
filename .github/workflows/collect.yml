@@ -1,0 +1,36 @@
+name: Collect Instagram Insights
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 毎日 JST 10:00 (UTC 01:00) に実行
+  workflow_dispatch:       # 手動実行も可能
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run insight collector
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_ACCOUNT_ID: ${{ secrets.IG_ACCOUNT_ID }}
+        run: python ig.py
+
+      - name: Commit updated stats
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add insta_stats.json
+          git diff --cached --quiet || git commit -m "chore: update insta_stats $(date -u +%Y-%m-%d)"
+          git push
