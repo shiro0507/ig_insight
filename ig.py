@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from datetime import datetime
+import zoneinfo
 
 ACCESS_TOKEN = os.environ['IG_ACCESS_TOKEN']
 INSTAGRAM_ACCOUNT_ID = os.environ['IG_ACCOUNT_ID']
@@ -26,7 +27,7 @@ def get_reels_data():
         'fields': 'id,caption,media_type,media_product_type,timestamp'
     }).json()
 
-    today = datetime.now().strftime('%Y-%m-%d')
+    today = datetime.now(zoneinfo.ZoneInfo('Asia/Tokyo')).strftime('%Y-%m-%d')
     new_stats = {}
 
     for media in res.get('data', []):
@@ -77,7 +78,7 @@ def update_json():
         full_data = {}
 
     # フォロワー数の取得・蓄積
-    today = datetime.now().strftime('%Y-%m-%d')
+    today = datetime.now(zoneinfo.ZoneInfo('Asia/Tokyo')).strftime('%Y-%m-%d')
     followers = get_followers_count()
     if followers is not None:
         if 'follower_history' not in full_data:
