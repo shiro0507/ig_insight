@@ -32,6 +32,16 @@
         "likes": 61,
         "comments": 0,
         "shares": 2
+      },
+      {
+        "date": "2026-04-18",
+        "views": 18804,
+        "reach": 16022,
+        "saved": 23,
+        "total_interactions": 112,
+        "likes": 83,
+        "comments": 0,
+        "shares": 3
       }
     ]
   },
@@ -68,6 +78,16 @@
         "likes": 164,
         "comments": 0,
         "shares": 27
+      },
+      {
+        "date": "2026-04-18",
+        "views": 58972,
+        "reach": 45332,
+        "saved": 47,
+        "total_interactions": 319,
+        "likes": 229,
+        "comments": 0,
+        "shares": 27
       }
     ]
   },
@@ -83,13 +103,16 @@
     {
       "date": "2026-04-17",
       "followers_count": 91
+    },
+    {
+      "date": "2026-04-18",
+      "followers_count": 139
     }
   ],
   "17984264108995387": {
     "caption": "⚠️ AVを見すぎていませんか？実は「見るだけ」でEDになる",
     "created_at": "2026-04-16T07:58:02+0000",
     "history": [
-
       {
         "date": "2026-04-17",
         "views": 45582,
@@ -99,6 +122,32 @@
         "likes": 99,
         "comments": 7,
         "shares": 3
+      },
+      {
+        "date": "2026-04-18",
+        "views": 66684,
+        "reach": 51681,
+        "saved": 45,
+        "total_interactions": 257,
+        "likes": 175,
+        "comments": 12,
+        "shares": 10
+      }
+    ]
+  },
+  "17885147433530344": {
+    "caption": "💬 性病って口からもうつるの？知らないと危険な事実をわかりや",
+    "created_at": "2026-04-17T07:57:14+0000",
+    "history": [
+      {
+        "date": "2026-04-18",
+        "views": 2178,
+        "reach": 1480,
+        "saved": 1,
+        "total_interactions": 11,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0
       }
     ]
   }
