@@ -42,6 +42,16 @@
         "likes": 83,
         "comments": 0,
         "shares": 3
+      },
+      {
+        "date": "2026-04-19",
+        "views": 20465,
+        "reach": 17665,
+        "saved": 25,
+        "total_interactions": 121,
+        "likes": 90,
+        "comments": 0,
+        "shares": 3
       }
     ]
   },
@@ -88,6 +98,16 @@
         "likes": 229,
         "comments": 0,
         "shares": 27
+      },
+      {
+        "date": "2026-04-19",
+        "views": 62907,
+        "reach": 48371,
+        "saved": 51,
+        "total_interactions": 341,
+        "likes": 244,
+        "comments": 0,
+        "shares": 28
       }
     ]
   },
@@ -107,6 +127,10 @@
     {
       "date": "2026-04-18",
       "followers_count": 139
+    },
+    {
+      "date": "2026-04-19",
+      "followers_count": 158
     }
   ],
   "17984264108995387": {
@@ -132,6 +156,16 @@
         "likes": 175,
         "comments": 12,
         "shares": 10
+      },
+      {
+        "date": "2026-04-19",
+        "views": 72506,
+        "reach": 56043,
+        "saved": 52,
+        "total_interactions": 288,
+        "likes": 195,
+        "comments": 12,
+        "shares": 10
       }
     ]
   },
@@ -148,6 +182,32 @@
         "likes": 8,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-19",
+        "views": 6993,
+        "reach": 5354,
+        "saved": 4,
+        "total_interactions": 51,
+        "likes": 26,
+        "comments": 0,
+        "shares": 19
+      }
+    ]
+  },
+  "18043235909549093": {
+    "caption": "😮 クラミジアと診断されたら、それは彼氏の浮気が原因？ 実は",
+    "created_at": "2026-04-18T09:29:21+0000",
+    "history": [
+      {
+        "date": "2026-04-19",
+        "views": 2246,
+        "reach": 1817,
+        "saved": 1,
+        "total_interactions": 22,
+        "likes": 5,
+        "comments": 0,
+        "shares": 16
       }
     ]
   }
