@@ -52,6 +52,16 @@
         "likes": 90,
         "comments": 0,
         "shares": 3
+      },
+      {
+        "date": "2026-04-20",
+        "views": 24676,
+        "reach": 21655,
+        "saved": 29,
+        "total_interactions": 141,
+        "likes": 105,
+        "comments": 0,
+        "shares": 4
       }
     ]
   },
@@ -108,6 +118,16 @@
         "likes": 244,
         "comments": 0,
         "shares": 28
+      },
+      {
+        "date": "2026-04-20",
+        "views": 68120,
+        "reach": 52616,
+        "saved": 53,
+        "total_interactions": 356,
+        "likes": 255,
+        "comments": 0,
+        "shares": 29
       }
     ]
   },
@@ -131,6 +151,10 @@
     {
       "date": "2026-04-19",
       "followers_count": 158
+    },
+    {
+      "date": "2026-04-20",
+      "followers_count": 202
     }
   ],
   "17984264108995387": {
@@ -166,6 +190,16 @@
         "likes": 195,
         "comments": 12,
         "shares": 10
+      },
+      {
+        "date": "2026-04-20",
+        "views": 78203,
+        "reach": 61244,
+        "saved": 64,
+        "total_interactions": 342,
+        "likes": 229,
+        "comments": 17,
+        "shares": 11
       }
     ]
   },
@@ -192,6 +226,16 @@
         "likes": 26,
         "comments": 0,
         "shares": 19
+      },
+      {
+        "date": "2026-04-20",
+        "views": 8753,
+        "reach": 6647,
+        "saved": 4,
+        "total_interactions": 55,
+        "likes": 29,
+        "comments": 0,
+        "shares": 19
       }
     ]
   },
@@ -208,6 +252,32 @@
         "likes": 5,
         "comments": 0,
         "shares": 16
+      },
+      {
+        "date": "2026-04-20",
+        "views": 5362,
+        "reach": 4451,
+        "saved": 3,
+        "total_interactions": 37,
+        "likes": 18,
+        "comments": 0,
+        "shares": 16
+      }
+    ]
+  },
+  "17875451259588349": {
+    "caption": "🩺 オナニーのしすぎで前立腺癌になるって本当？\r\n実は、現在",
+    "created_at": "2026-04-19T07:51:50+0000",
+    "history": [
+      {
+        "date": "2026-04-20",
+        "views": 39010,
+        "reach": 31047,
+        "saved": 15,
+        "total_interactions": 119,
+        "likes": 98,
+        "comments": 0,
+        "shares": 0
       }
     ]
   }
