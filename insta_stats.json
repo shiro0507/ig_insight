@@ -62,6 +62,16 @@
         "likes": 105,
         "comments": 0,
         "shares": 4
+      },
+      {
+        "date": "2026-04-21",
+        "views": 31518,
+        "reach": 27681,
+        "saved": 43,
+        "total_interactions": 183,
+        "likes": 130,
+        "comments": 0,
+        "shares": 7
       }
     ]
   },
@@ -128,6 +138,16 @@
         "likes": 255,
         "comments": 0,
         "shares": 29
+      },
+      {
+        "date": "2026-04-21",
+        "views": 70936,
+        "reach": 54881,
+        "saved": 53,
+        "total_interactions": 370,
+        "likes": 268,
+        "comments": 0,
+        "shares": 30
       }
     ]
   },
@@ -155,6 +175,10 @@
     {
       "date": "2026-04-20",
       "followers_count": 202
+    },
+    {
+      "date": "2026-04-21",
+      "followers_count": 253
     }
   ],
   "17984264108995387": {
@@ -200,6 +224,16 @@
         "likes": 229,
         "comments": 17,
         "shares": 11
+      },
+      {
+        "date": "2026-04-21",
+        "views": 82692,
+        "reach": 65343,
+        "saved": 67,
+        "total_interactions": 361,
+        "likes": 242,
+        "comments": 18,
+        "shares": 13
       }
     ]
   },
@@ -236,6 +270,16 @@
         "likes": 29,
         "comments": 0,
         "shares": 19
+      },
+      {
+        "date": "2026-04-21",
+        "views": 9835,
+        "reach": 7502,
+        "saved": 4,
+        "total_interactions": 58,
+        "likes": 31,
+        "comments": 0,
+        "shares": 19
       }
     ]
   },
@@ -262,6 +306,16 @@
         "likes": 18,
         "comments": 0,
         "shares": 16
+      },
+      {
+        "date": "2026-04-21",
+        "views": 6356,
+        "reach": 5418,
+        "saved": 4,
+        "total_interactions": 39,
+        "likes": 19,
+        "comments": 0,
+        "shares": 16
       }
     ]
   },
@@ -276,6 +330,32 @@
         "saved": 15,
         "total_interactions": 119,
         "likes": 98,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-04-21",
+        "views": 76808,
+        "reach": 62272,
+        "saved": 33,
+        "total_interactions": 230,
+        "likes": 187,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "17882411838542824": {
+    "caption": "⚠️ アソコのブツブツ、放置してませんか？\r\n実は場所や大き",
+    "created_at": "2026-04-20T07:50:40+0000",
+    "history": [
+      {
+        "date": "2026-04-21",
+        "views": 19851,
+        "reach": 16011,
+        "saved": 14,
+        "total_interactions": 48,
+        "likes": 32,
         "comments": 0,
         "shares": 0
       }
