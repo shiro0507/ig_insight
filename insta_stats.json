@@ -72,6 +72,16 @@
         "likes": 130,
         "comments": 0,
         "shares": 7
+      },
+      {
+        "date": "2026-04-22",
+        "views": 43524,
+        "reach": 38289,
+        "saved": 73,
+        "total_interactions": 268,
+        "likes": 180,
+        "comments": 0,
+        "shares": 10
       }
     ]
   },
@@ -148,6 +158,16 @@
         "likes": 268,
         "comments": 0,
         "shares": 30
+      },
+      {
+        "date": "2026-04-22",
+        "views": 73960,
+        "reach": 57253,
+        "saved": 56,
+        "total_interactions": 386,
+        "likes": 281,
+        "comments": 0,
+        "shares": 30
       }
     ]
   },
@@ -179,6 +199,10 @@
     {
       "date": "2026-04-21",
       "followers_count": 253
+    },
+    {
+      "date": "2026-04-22",
+      "followers_count": 285
     }
   ],
   "17984264108995387": {
@@ -234,6 +258,16 @@
         "likes": 242,
         "comments": 18,
         "shares": 13
+      },
+      {
+        "date": "2026-04-22",
+        "views": 87056,
+        "reach": 68890,
+        "saved": 72,
+        "total_interactions": 383,
+        "likes": 257,
+        "comments": 18,
+        "shares": 13
       }
     ]
   },
@@ -280,6 +314,16 @@
         "likes": 31,
         "comments": 0,
         "shares": 19
+      },
+      {
+        "date": "2026-04-22",
+        "views": 10431,
+        "reach": 7863,
+        "saved": 5,
+        "total_interactions": 60,
+        "likes": 32,
+        "comments": 0,
+        "shares": 19
       }
     ]
   },
@@ -316,6 +360,16 @@
         "likes": 19,
         "comments": 0,
         "shares": 16
+      },
+      {
+        "date": "2026-04-22",
+        "views": 6718,
+        "reach": 5715,
+        "saved": 4,
+        "total_interactions": 41,
+        "likes": 21,
+        "comments": 0,
+        "shares": 16
       }
     ]
   },
@@ -342,6 +396,16 @@
         "likes": 187,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-22",
+        "views": 77897,
+        "reach": 63174,
+        "saved": 34,
+        "total_interactions": 232,
+        "likes": 188,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -356,6 +420,32 @@
         "saved": 14,
         "total_interactions": 48,
         "likes": 32,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-04-22",
+        "views": 29958,
+        "reach": 24026,
+        "saved": 21,
+        "total_interactions": 74,
+        "likes": 49,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "17971999860009402": {
+    "caption": "エッチの翌日、アソコがかゆいのを「ただの肌荒れ」で済ませてい",
+    "created_at": "2026-04-21T08:02:28+0000",
+    "history": [
+      {
+        "date": "2026-04-22",
+        "views": 1247,
+        "reach": 1044,
+        "saved": 1,
+        "total_interactions": 13,
+        "likes": 11,
         "comments": 0,
         "shares": 0
       }
