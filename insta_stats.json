@@ -102,6 +102,16 @@
         "likes": 220,
         "comments": 0,
         "shares": 12
+      },
+      {
+        "date": "2026-04-25",
+        "views": 58323,
+        "reach": 51601,
+        "saved": 96,
+        "total_interactions": 353,
+        "likes": 236,
+        "comments": 1,
+        "shares": 12
       }
     ]
   },
@@ -208,6 +218,16 @@
         "likes": 303,
         "comments": 0,
         "shares": 30
+      },
+      {
+        "date": "2026-04-25",
+        "views": 81287,
+        "reach": 63149,
+        "saved": 61,
+        "total_interactions": 423,
+        "likes": 312,
+        "comments": 0,
+        "shares": 30
       }
     ]
   },
@@ -251,6 +271,10 @@
     {
       "date": "2026-04-24",
       "followers_count": 353
+    },
+    {
+      "date": "2026-04-25",
+      "followers_count": 479
     }
   ],
   "17984264108995387": {
@@ -336,6 +360,16 @@
         "likes": 282,
         "comments": 19,
         "shares": 15
+      },
+      {
+        "date": "2026-04-25",
+        "views": 100988,
+        "reach": 79217,
+        "saved": 89,
+        "total_interactions": 482,
+        "likes": 325,
+        "comments": 25,
+        "shares": 19
       }
     ]
   },
@@ -412,6 +446,16 @@
         "likes": 40,
         "comments": 0,
         "shares": 19
+      },
+      {
+        "date": "2026-04-25",
+        "views": 12366,
+        "reach": 9269,
+        "saved": 6,
+        "total_interactions": 70,
+        "likes": 41,
+        "comments": 0,
+        "shares": 19
       }
     ]
   },
@@ -478,6 +522,16 @@
         "likes": 25,
         "comments": 0,
         "shares": 16
+      },
+      {
+        "date": "2026-04-25",
+        "views": 7529,
+        "reach": 6289,
+        "saved": 4,
+        "total_interactions": 45,
+        "likes": 25,
+        "comments": 0,
+        "shares": 16
       }
     ]
   },
@@ -534,6 +588,16 @@
         "likes": 206,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 87327,
+        "reach": 71945,
+        "saved": 36,
+        "total_interactions": 259,
+        "likes": 213,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -580,6 +644,16 @@
         "likes": 57,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 40073,
+        "reach": 32970,
+        "saved": 25,
+        "total_interactions": 111,
+        "likes": 76,
+        "comments": 1,
+        "shares": 1
       }
     ]
   },
@@ -616,6 +690,16 @@
         "likes": 25,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 3461,
+        "reach": 2884,
+        "saved": 1,
+        "total_interactions": 34,
+        "likes": 29,
+        "comments": 1,
+        "shares": 0
       }
     ]
   },
@@ -642,6 +726,16 @@
         "likes": 37,
         "comments": 0,
         "shares": 14
+      },
+      {
+        "date": "2026-04-25",
+        "views": 28537,
+        "reach": 23480,
+        "saved": 18,
+        "total_interactions": 90,
+        "likes": 47,
+        "comments": 1,
+        "shares": 15
       }
     ]
   },
@@ -658,6 +752,32 @@
         "likes": 103,
         "comments": 1,
         "shares": 15
+      },
+      {
+        "date": "2026-04-25",
+        "views": 54595,
+        "reach": 42035,
+        "saved": 207,
+        "total_interactions": 789,
+        "likes": 521,
+        "comments": 12,
+        "shares": 27
+      }
+    ]
+  },
+  "18168947980418376": {
+    "caption": "トイレにスマホを持ち込むのが習慣になっていませんか？⚠️\r\n",
+    "created_at": "2026-04-24T07:46:42+0000",
+    "history": [
+      {
+        "date": "2026-04-25",
+        "views": 889,
+        "reach": 764,
+        "saved": 0,
+        "total_interactions": 5,
+        "likes": 4,
+        "comments": 0,
+        "shares": 1
       }
     ]
   }
