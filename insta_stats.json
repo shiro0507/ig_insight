@@ -142,6 +142,16 @@
         "likes": 275,
         "comments": 1,
         "shares": 17
+      },
+      {
+        "date": "2026-04-29",
+        "views": 68317,
+        "reach": 60881,
+        "saved": 121,
+        "total_interactions": 438,
+        "likes": 287,
+        "comments": 2,
+        "shares": 17
       }
     ]
   },
@@ -288,6 +298,16 @@
         "likes": 344,
         "comments": 0,
         "shares": 31
+      },
+      {
+        "date": "2026-04-29",
+        "views": 90797,
+        "reach": 70846,
+        "saved": 67,
+        "total_interactions": 473,
+        "likes": 355,
+        "comments": 0,
+        "shares": 31
       }
     ]
   },
@@ -347,6 +367,10 @@
     {
       "date": "2026-04-28",
       "followers_count": 651
+    },
+    {
+      "date": "2026-04-29",
+      "followers_count": 708
     }
   ],
   "17984264108995387": {
@@ -558,6 +582,16 @@
         "likes": 43,
         "comments": 0,
         "shares": 19
+      },
+      {
+        "date": "2026-04-29",
+        "views": 13067,
+        "reach": 9726,
+        "saved": 7,
+        "total_interactions": 75,
+        "likes": 44,
+        "comments": 0,
+        "shares": 19
       }
     ]
   },
@@ -664,6 +698,16 @@
         "likes": 25,
         "comments": 0,
         "shares": 16
+      },
+      {
+        "date": "2026-04-29",
+        "views": 7946,
+        "reach": 6663,
+        "saved": 4,
+        "total_interactions": 49,
+        "likes": 29,
+        "comments": 0,
+        "shares": 16
       }
     ]
   },
@@ -760,6 +804,16 @@
         "likes": 217,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-29",
+        "views": 91081,
+        "reach": 75310,
+        "saved": 36,
+        "total_interactions": 265,
+        "likes": 219,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -846,6 +900,16 @@
         "likes": 76,
         "comments": 1,
         "shares": 1
+      },
+      {
+        "date": "2026-04-29",
+        "views": 48958,
+        "reach": 40602,
+        "saved": 26,
+        "total_interactions": 131,
+        "likes": 93,
+        "comments": 1,
+        "shares": 1
       }
     ]
   },
@@ -922,6 +986,16 @@
         "likes": 31,
         "comments": 1,
         "shares": 0
+      },
+      {
+        "date": "2026-04-29",
+        "views": 3978,
+        "reach": 3329,
+        "saved": 4,
+        "total_interactions": 43,
+        "likes": 34,
+        "comments": 1,
+        "shares": 0
       }
     ]
   },
@@ -988,6 +1062,16 @@
         "likes": 53,
         "comments": 1,
         "shares": 15
+      },
+      {
+        "date": "2026-04-29",
+        "views": 33397,
+        "reach": 27094,
+        "saved": 21,
+        "total_interactions": 102,
+        "likes": 56,
+        "comments": 1,
+        "shares": 15
       }
     ]
   },
@@ -1044,6 +1128,16 @@
         "likes": 1154,
         "comments": 33,
         "shares": 71
+      },
+      {
+        "date": "2026-04-29",
+        "views": 109930,
+        "reach": 81428,
+        "saved": 530,
+        "total_interactions": 1954,
+        "likes": 1246,
+        "comments": 35,
+        "shares": 73
       }
     ]
   },
@@ -1090,6 +1184,16 @@
         "likes": 15,
         "comments": 0,
         "shares": 1
+      },
+      {
+        "date": "2026-04-29",
+        "views": 7396,
+        "reach": 6789,
+        "saved": 7,
+        "total_interactions": 28,
+        "likes": 18,
+        "comments": 0,
+        "shares": 1
       }
     ]
   },
@@ -1116,6 +1220,16 @@
         "likes": 103,
         "comments": 1,
         "shares": 20
+      },
+      {
+        "date": "2026-04-29",
+        "views": 52493,
+        "reach": 39129,
+        "saved": 34,
+        "total_interactions": 195,
+        "likes": 133,
+        "comments": 1,
+        "shares": 22
       }
     ]
   },
@@ -1132,6 +1246,32 @@
         "likes": 9,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-04-29",
+        "views": 8899,
+        "reach": 8572,
+        "saved": 2,
+        "total_interactions": 31,
+        "likes": 27,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "17926902771098499": {
+    "caption": "😱 実は一生治らない…「性器ヘルペス」の怖すぎる真実\r\n一度",
+    "created_at": "2026-04-28T07:46:58+0000",
+    "history": [
+      {
+        "date": "2026-04-29",
+        "views": 31173,
+        "reach": 31666,
+        "saved": 26,
+        "total_interactions": 134,
+        "likes": 75,
+        "comments": 1,
+        "shares": 27
       }
     ]
   }
