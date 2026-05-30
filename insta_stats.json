@@ -95,6 +95,10 @@
     {
       "date": "2026-05-30",
       "followers_count": 2935
+    },
+    {
+      "date": "2026-05-31",
+      "followers_count": 2978
     }
   ],
   "17985850047002538": {
@@ -338,6 +342,16 @@
         "saved": 81,
         "total_interactions": 450,
         "likes": 328,
+        "comments": 10,
+        "shares": 21
+      },
+      {
+        "date": "2026-05-31",
+        "views": 89523,
+        "reach": 73785,
+        "saved": 83,
+        "total_interactions": 467,
+        "likes": 342,
         "comments": 10,
         "shares": 21
       }
@@ -584,6 +598,16 @@
         "saved": 106,
         "total_interactions": 738,
         "likes": 579,
+        "comments": 6,
+        "shares": 11
+      },
+      {
+        "date": "2026-05-31",
+        "views": 132728,
+        "reach": 105326,
+        "saved": 107,
+        "total_interactions": 756,
+        "likes": 595,
         "comments": 6,
         "shares": 11
       }
@@ -3614,6 +3638,16 @@
         "likes": 202,
         "comments": 12,
         "shares": 109
+      },
+      {
+        "date": "2026-05-31",
+        "views": 55920,
+        "reach": 43906,
+        "saved": 35,
+        "total_interactions": 364,
+        "likes": 203,
+        "comments": 12,
+        "shares": 109
       }
     ]
   },
@@ -3840,6 +3874,16 @@
         "likes": 166,
         "comments": 0,
         "shares": 2
+      },
+      {
+        "date": "2026-05-31",
+        "views": 39092,
+        "reach": 31561,
+        "saved": 36,
+        "total_interactions": 213,
+        "likes": 169,
+        "comments": 0,
+        "shares": 2
       }
     ]
   },
@@ -4056,6 +4100,16 @@
         "likes": 78,
         "comments": 0,
         "shares": 16
+      },
+      {
+        "date": "2026-05-31",
+        "views": 25865,
+        "reach": 21641,
+        "saved": 14,
+        "total_interactions": 112,
+        "likes": 79,
+        "comments": 0,
+        "shares": 16
       }
     ]
   },
@@ -4262,6 +4316,16 @@
         "likes": 370,
         "comments": 2,
         "shares": 15
+      },
+      {
+        "date": "2026-05-31",
+        "views": 117858,
+        "reach": 88662,
+        "saved": 69,
+        "total_interactions": 466,
+        "likes": 370,
+        "comments": 2,
+        "shares": 15
       }
     ]
   },
@@ -4458,6 +4522,16 @@
         "likes": 620,
         "comments": 10,
         "shares": 33
+      },
+      {
+        "date": "2026-05-31",
+        "views": 104806,
+        "reach": 80681,
+        "saved": 346,
+        "total_interactions": 1035,
+        "likes": 625,
+        "comments": 10,
+        "shares": 33
       }
     ]
   },
@@ -4644,6 +4718,16 @@
         "likes": 1178,
         "comments": 22,
         "shares": 66
+      },
+      {
+        "date": "2026-05-31",
+        "views": 475312,
+        "reach": 401615,
+        "saved": 301,
+        "total_interactions": 1646,
+        "likes": 1191,
+        "comments": 22,
+        "shares": 66
       }
     ]
   },
@@ -4820,6 +4904,16 @@
         "likes": 294,
         "comments": 5,
         "shares": 30
+      },
+      {
+        "date": "2026-05-31",
+        "views": 89776,
+        "reach": 77306,
+        "saved": 81,
+        "total_interactions": 440,
+        "likes": 303,
+        "comments": 5,
+        "shares": 31
       }
     ]
   },
@@ -4986,6 +5080,16 @@
         "likes": 2111,
         "comments": 43,
         "shares": 231
+      },
+      {
+        "date": "2026-05-31",
+        "views": 864958,
+        "reach": 685746,
+        "saved": 697,
+        "total_interactions": 3196,
+        "likes": 2138,
+        "comments": 45,
+        "shares": 232
       }
     ]
   },
@@ -5142,6 +5246,16 @@
         "likes": 265,
         "comments": 12,
         "shares": 11
+      },
+      {
+        "date": "2026-05-31",
+        "views": 51597,
+        "reach": 43083,
+        "saved": 67,
+        "total_interactions": 375,
+        "likes": 267,
+        "comments": 12,
+        "shares": 11
       }
     ]
   },
@@ -5278,6 +5392,16 @@
         "likes": 49,
         "comments": 3,
         "shares": 0
+      },
+      {
+        "date": "2026-05-31",
+        "views": 8122,
+        "reach": 6600,
+        "saved": 12,
+        "total_interactions": 67,
+        "likes": 50,
+        "comments": 3,
+        "shares": 0
       }
     ]
   },
@@ -5404,6 +5528,16 @@
         "likes": 103,
         "comments": 1,
         "shares": 19
+      },
+      {
+        "date": "2026-05-31",
+        "views": 20012,
+        "reach": 17909,
+        "saved": 21,
+        "total_interactions": 152,
+        "likes": 103,
+        "comments": 1,
+        "shares": 20
       }
     ]
   },
@@ -5520,6 +5654,16 @@
         "likes": 69,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-05-31",
+        "views": 17407,
+        "reach": 14475,
+        "saved": 5,
+        "total_interactions": 75,
+        "likes": 69,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -5626,6 +5770,16 @@
         "likes": 112,
         "comments": 0,
         "shares": 37
+      },
+      {
+        "date": "2026-05-31",
+        "views": 32994,
+        "reach": 29248,
+        "saved": 21,
+        "total_interactions": 178,
+        "likes": 114,
+        "comments": 0,
+        "shares": 37
       }
     ]
   },
@@ -5722,6 +5876,16 @@
         "likes": 47,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-05-31",
+        "views": 18682,
+        "reach": 16300,
+        "saved": 17,
+        "total_interactions": 72,
+        "likes": 47,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -5808,6 +5972,16 @@
         "likes": 66,
         "comments": 0,
         "shares": 1
+      },
+      {
+        "date": "2026-05-31",
+        "views": 14233,
+        "reach": 12186,
+        "saved": 11,
+        "total_interactions": 81,
+        "likes": 66,
+        "comments": 0,
+        "shares": 1
       }
     ]
   },
@@ -5884,6 +6058,16 @@
         "likes": 166,
         "comments": 1,
         "shares": 39
+      },
+      {
+        "date": "2026-05-31",
+        "views": 33618,
+        "reach": 28878,
+        "saved": 48,
+        "total_interactions": 267,
+        "likes": 168,
+        "comments": 1,
+        "shares": 39
       }
     ]
   },
@@ -5950,6 +6134,16 @@
         "likes": 76,
         "comments": 0,
         "shares": 34
+      },
+      {
+        "date": "2026-05-31",
+        "views": 22986,
+        "reach": 20772,
+        "saved": 26,
+        "total_interactions": 141,
+        "likes": 76,
+        "comments": 0,
+        "shares": 34
       }
     ]
   },
@@ -6006,6 +6200,16 @@
         "likes": 79,
         "comments": 0,
         "shares": 1
+      },
+      {
+        "date": "2026-05-31",
+        "views": 17349,
+        "reach": 14042,
+        "saved": 35,
+        "total_interactions": 122,
+        "likes": 81,
+        "comments": 0,
+        "shares": 1
       }
     ]
   },
@@ -6052,6 +6256,16 @@
         "likes": 22,
         "comments": 0,
         "shares": 30
+      },
+      {
+        "date": "2026-05-31",
+        "views": 4352,
+        "reach": 3982,
+        "saved": 2,
+        "total_interactions": 55,
+        "likes": 22,
+        "comments": 0,
+        "shares": 30
       }
     ]
   },
@@ -6088,6 +6302,16 @@
         "likes": 36,
         "comments": 1,
         "shares": 0
+      },
+      {
+        "date": "2026-05-31",
+        "views": 9457,
+        "reach": 8522,
+        "saved": 3,
+        "total_interactions": 44,
+        "likes": 37,
+        "comments": 1,
+        "shares": 0
       }
     ]
   },
@@ -6114,6 +6338,16 @@
         "likes": 12,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-05-31",
+        "views": 2211,
+        "reach": 1902,
+        "saved": 1,
+        "total_interactions": 16,
+        "likes": 14,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -6130,6 +6364,32 @@
         "likes": 63,
         "comments": 0,
         "shares": 2
+      },
+      {
+        "date": "2026-05-31",
+        "views": 71930,
+        "reach": 58503,
+        "saved": 39,
+        "total_interactions": 169,
+        "likes": 120,
+        "comments": 0,
+        "shares": 3
+      }
+    ]
+  },
+  "17927759271299927": {
+    "caption": "💊 性病って市販薬で治せると思ってませんか？\n\n実は市販薬で",
+    "created_at": "2026-05-30T08:49:26+0000",
+    "history": [
+      {
+        "date": "2026-05-31",
+        "views": 8258,
+        "reach": 7342,
+        "saved": 3,
+        "total_interactions": 32,
+        "likes": 27,
+        "comments": 1,
+        "shares": 0
       }
     ]
   }
