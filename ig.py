@@ -5,11 +5,11 @@ import sys
 from datetime import datetime
 import zoneinfo
 
-# 投稿(post.py)と同じ Instagramログイン方式のトークンを使う(トークンは1つに統一。
-# refresh-token.yml が毎月延長する INSTAGRAM_ACCESS_TOKEN)
+# 投稿(post.py)と同じトークンを使う: Meta システムユーザーの無期限トークン
+# (Facebookログイン方式 / graph.facebook.com)。期限延長は不要。
 ACCESS_TOKEN = os.environ['INSTAGRAM_ACCESS_TOKEN']
 INSTAGRAM_ACCOUNT_ID = os.environ['INSTAGRAM_ACCOUNT_ID']
-IG_API = 'https://graph.instagram.com/v25.0'
+IG_API = 'https://graph.facebook.com/v21.0'
 JSON_FILE = 'insta_stats.json'
 
 def get_followers_count():

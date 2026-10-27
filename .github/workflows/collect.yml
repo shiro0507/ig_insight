@@ -26,8 +26,9 @@ jobs:
 
       - name: Run insight collector
         env:
-          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.META_SYSTEM_USER_TOKEN }}
+          # akari.partnership の IGアカウントID(graph.facebook.com 方式)。公開情報なのでシークレットにしていない
+          INSTAGRAM_ACCOUNT_ID: "17841429984378697"
         run: python ig.py
 
       - name: Commit updated stats
