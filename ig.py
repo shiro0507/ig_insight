@@ -1,15 +1,19 @@
 import requests
 import json
 import os
+import sys
 from datetime import datetime
 import zoneinfo
 
-ACCESS_TOKEN = os.environ['IG_ACCESS_TOKEN']
-INSTAGRAM_ACCOUNT_ID = os.environ['IG_ACCOUNT_ID']
+# 投稿(post.py)と同じ Instagramログイン方式のトークンを使う(トークンは1つに統一。
+# refresh-token.yml が毎月延長する INSTAGRAM_ACCESS_TOKEN)
+ACCESS_TOKEN = os.environ['INSTAGRAM_ACCESS_TOKEN']
+INSTAGRAM_ACCOUNT_ID = os.environ['INSTAGRAM_ACCOUNT_ID']
+IG_API = 'https://graph.instagram.com/v25.0'
 JSON_FILE = 'insta_stats.json'
 
 def get_followers_count():
-    url = f"https://graph.facebook.com/v22.0/{INSTAGRAM_ACCOUNT_ID}"
+    url = f"{IG_API}/{INSTAGRAM_ACCOUNT_ID}"
     res = requests.get(url, params={
         'access_token': ACCESS_TOKEN,
         'fields': 'followers_count'
@@ -21,11 +25,16 @@ def get_followers_count():
 
 def get_reels_data():
     # 1. 投稿一覧を取得（media_product_typeでリールを判別するためフィールドに追加）
-    media_url = f"https://graph.facebook.com/v22.0/{INSTAGRAM_ACCOUNT_ID}/media"
+    media_url = f"{IG_API}/{INSTAGRAM_ACCOUNT_ID}/media"
     res = requests.get(media_url, params={
         'access_token': ACCESS_TOKEN,
         'fields': 'id,caption,media_type,media_product_type,timestamp'
     }).json()
+    # トークン切れ等で一覧が取れないときは失敗として終了する
+    # (以前は警告だけで終わり、ジョブが「成功」のまま記録が止まっていた)
+    if 'error' in res:
+        print(f"Error: Could not fetch media list: {res['error'].get('message', 'unknown error')}")
+        sys.exit(1)
 
     today = datetime.now(zoneinfo.ZoneInfo('Asia/Tokyo')).strftime('%Y-%m-%d')
     new_stats = {}
@@ -41,7 +50,7 @@ def get_reels_data():
 
         m_id = media['id']
         # 2. インサイト取得
-        ins_url = f"https://graph.facebook.com/v22.0/{m_id}/insights"
+        ins_url = f"{IG_API}/{m_id}/insights"
         # views: 再生数(v22.0以降はplaysの代替), reach: リーチ, saved: 保存数, total_interactions: いいね+保存+コメント+シェアの合計
         ins_params = {
             'metric': 'views,reach,saved,total_interactions,likes,comments,shares',
